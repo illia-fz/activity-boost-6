@@ -1,0 +1,3 @@
+This file contains blockchain concepts and information.
+Cryptocurrency basics: decentralization and consensus.
+Smart contracts allow trustless agreements.
