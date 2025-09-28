@@ -1,3 +1,5 @@
 This file contains blockchain concepts and information.
 Cryptocurrency basics: decentralization and consensus.
 Smart contracts allow trustless agreements.
+Blockchain enables transparent ledger systems.
+Proof-of-stake and proof-of-work are consensus mechanisms.
